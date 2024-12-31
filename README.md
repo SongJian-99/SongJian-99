@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJian-99&show_icons=true&theme=dark)             [![GitHub Streak](https://streak-stats.demolab.com/?user=SongJian-99)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJian-99&show_icons=true&theme=tokyonight) 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SongJian-99&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SongJian-99&theme=react-dark&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
